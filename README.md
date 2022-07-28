@@ -1,4 +1,13 @@
-# NalaN 
-NalaN (Natural Language Analysis)
+# NalaN (Natural Language Analysis)
 
-Information extractor that reads faster, understands more easily and analyzes smarter.
+NAlaN-Relationship_Extraction
+
+Who is the murderer?🔪🔪🔪
+
+What if deep learning meets Agatha Christie?👀
+
+In this project, the characters of Agatha Christie's famous novel, The Mysterious Affair at Styles, were analyzed according to Natural Language Processes techniques and the information of relationships between them was extracted.
+
+
+![image](https://user-images.githubusercontent.com/66321074/181624690-63376529-810b-48b4-ade2-93de2c66329e.png)
+
